@@ -6,3 +6,8 @@ https://www.topreceptek.hu/sitemap.xml  <- there are images at each step
 https://femina.hu/sitemap/sitemapindex.xml  <- partially has .../recept/... posts
 http://sobors.hu/sitemap/sitemapindex.xml  <- recept/gasztro/technologia
 https://egy.hu/sitemap.xml  <- partial
+https://annuskam.hu/sitemap_index.xml  <- vannak videok is nehany helyen
+
+
+# harder to scrape
+https://mesterszakacs.hu/recept/?page=323&keywords=&category=
